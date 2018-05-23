@@ -131,3 +131,12 @@ Coming soon
 1. Kazushi Yamashina, Takeshi Ohkawa, Kanemitsu Ootsu, Takashi Yokota, ``cReComp: Automated Design Tool for ROS-Compliant FPGA Component,'' IEEE 10th International Symposium on Embedded Multicore/Many-core Systems-on-Chip (MCSoC-16) @ Lyon, France, 2016.9
 - Kazushi Yamashina, Takeshi Ohkawa, Kanemitsu Ootsu, Takashi Yokota, ``Functional improvement of cReComp Design tool for software-component generation of FPGA processing, RECONF @ Toyama, Japan, 2016.9
 - Kazushi Yamashina, Hitomi Kimura, Takeshi Ohkawa, Kanemitsu Ootsu, Takashi Yokota, ``Automatic Design Environment for Componentization of an FPGA Processing in ROS,'' Annual Conference of the Institute of Systems, Control and Information Engineers, SCI'16 @ Kyoto, Japan, 2016.5
+
+
+ # Acknowledgements
+This R&D project is done by Takeshi Ohkawa, Utsunomiya University.
+- https://sites.google.com/site/ohkawatakeshi/profile_en
+- http://www.is.utsunomiya-u.ac.jp/pearlab/openreroc/en/
+
+This research and development work was supported by MIC/SCOPE #152103014.
+ 
